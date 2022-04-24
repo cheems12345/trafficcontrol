@@ -163,7 +163,7 @@ public class SignTileEntity extends TileEntity {
 		{
 			return "misc4b";
 		}
-		else if (variant >= 41 && variant <= 45)
+		else if (variant >= 156 && variant <= 167)
 		{
 			return "misc5b";
 		}
